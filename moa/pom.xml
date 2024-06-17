@@ -167,7 +167,7 @@
     <dependency>
       <groupId>ai.djl</groupId>
       <artifactId>api</artifactId>
-      <version>0.9.0</version>
+      <version>0.28.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.slf4j</groupId>
